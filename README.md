@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AI/ML, Web development, App development**
 
-- 👨‍💻 Portfolio [VIEW WEBSITE](https://rohith.netlify.app)
+- 👨‍💻 Portfolio [VIEW WEBSITE](https://rohith67.netlify.app)
 
-- 📄 Resume [OPEN RESUME](https://drive.google.com/)
+- 📄 Resume [OPEN RESUME](https://drive.google.com/file/d/1RrNT28YT4vWnP77iHJOYbJDTGNOaJiHr/view?usp=sharing)
 
 - ⚡ Fun fact **I’ve spent more time debugging code than actually writing it.**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
